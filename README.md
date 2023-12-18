@@ -1,4 +1,4 @@
-[Your project Title]
+FOTOLAB
 =======================================
 + Supervisor		: LÊ THANH NHÂN
 + Semester		: 01
