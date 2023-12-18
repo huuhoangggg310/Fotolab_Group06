@@ -10,7 +10,7 @@ FOTOLAB
 	3. Nguyễn Hữu Hoàng 	(Student1513399)	
 =======================================
 
-Documentations : https://github.com/huuhoangggg310/
+Documentations : https://github.com/huuhoangggg310/Fotolab_Group06
 =======================================
 
 Published website : https://huuhoangggg310.github.io/Fotolab_Group06/
