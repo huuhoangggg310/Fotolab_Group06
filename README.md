@@ -13,8 +13,8 @@ FOTOLAB
 Documentations : https://github.com/huuhoangggg310/
 =======================================
 
-Published website : https://l3nhan.github.io/doodle_group01/
+Published website : https://huuhoangggg310.github.io/Fotolab_Group06/
 =======================================
 
 Thank you for visit our website.
-![image](https://github.com/huuhoangggg310/Fotolab_Group06/assets/154238928/a4c6c405-7763-4844-9033-b17b696ea533)
+
